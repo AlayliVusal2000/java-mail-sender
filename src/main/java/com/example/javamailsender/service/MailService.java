@@ -2,7 +2,7 @@ package com.example.javamailsender.service;
 
 import com.example.javamailsender.dao.entity.MailEntity;
 import com.example.javamailsender.dao.repo.MailRepository;
-import com.example.javamailsender.model.MailDto;
+import com.example.javamailsender.model.dto.MailDto;
 import jakarta.mail.MessagingException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,6 +1,6 @@
 package com.example.javamailsender.controller;
 
-import com.example.javamailsender.model.MailDto;
+import com.example.javamailsender.model.dto.MailDto;
 import com.example.javamailsender.service.MailService;
 import jakarta.mail.MessagingException;
 import lombok.RequiredArgsConstructor;

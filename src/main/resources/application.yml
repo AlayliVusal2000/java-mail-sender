@@ -23,7 +23,7 @@ spring:
   mail:
     host: smtp.gmail.com
     username: you gmail address
-    password: you gmail app password smtp
+    password: you gmail app password
     properties:
       mail:
         smtp:

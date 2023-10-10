@@ -1,7 +1,7 @@
 package com.example.javamailsender.model.mapper;
 
 import com.example.javamailsender.dao.entity.MailEntity;
-import com.example.javamailsender.model.MailDto;
+import com.example.javamailsender.model.dto.MailDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
